@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1684893495 "/Users/figamin/cs390r-final-wyze-cam/390rwriteup.tex" "390rwriteup.pdf" "390rwriteup" 1684893496 0
-  "/Users/figamin/cs390r-final-wyze-cam/390rwriteup.tex" 1684893495 11310 2202294216d4b0998c835633bcb30a28 ""
+["pdflatex"] 1684899682 "/Users/figamin/cs390r-final-wyze-cam/390rwriteup.tex" "390rwriteup.pdf" "390rwriteup" 1684899683 0
+  "/Users/figamin/cs390r-final-wyze-cam/390rwriteup.tex" 1684899682 16176 d45fe5a8bd2930af8195e7054492cd87 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -105,9 +105,17 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684722848 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684722780 7883457 e07195fa9e5699cfb4f6ae472d3ebecb ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "390rwriteup.aux" 1684893496 1135 30bfb568fdf7f9c942d46965bb62cfcc "pdflatex"
-  "390rwriteup.out" 1684893496 719 8c7a4313107747b6c352d07dad374a64 "pdflatex"
-  "390rwriteup.tex" 1684893495 11310 2202294216d4b0998c835633bcb30a28 ""
+  "390rwriteup.aux" 1684899683 1609 fc89755e414f5c8e37a547a24993b8eb "pdflatex"
+  "390rwriteup.out" 1684899683 1330 1be3ca96be4fb3b6fda698bdbc5a8b07 "pdflatex"
+  "390rwriteup.tex" 1684899682 16176 d45fe5a8bd2930af8195e7054492cd87 ""
+  "images//image1.png" 1684887692 1634794 e4459cf9656becd40f2649a2f11c9508 ""
+  "images//ingenic.jpg" 1684898373 17495 c2ad054397c8ff381efe4ace7ae213af ""
+  "images//main.png" 1684899247 225962 8c66bab98f2dfce45d4d2088f9eee257 ""
+  "images//screen.png" 1684897981 15579 5ff2ca374d0ae296d06cb997c6f870c8 ""
+  "images//screen2.png" 1684897990 104553 878c94296acce74798b44435e6b8df10 ""
+  "images//sensortype.png" 1684898752 214900 92aaf7048cf334afa45141c5a1a8980f ""
+  "images//uclib.png" 1684899026 152266 d15ff644cb4d5e66bca2d091cbc5c6b2 ""
+  "images//wyze.jpg" 1684898286 16142 48248a52e52273073ad9bb50737782ba ""
   (generated)
   "390rwriteup.aux"
   "390rwriteup.log"
